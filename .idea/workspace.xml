@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="977548ab-0860-4570-9a01-b376f9a0b0d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vDNsis4my6DvSPIINdCjei12OK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2019.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="977548ab-0860-4570-9a01-b376f9a0b0d9" name="Default Changelist" comment="" />
+      <created>1626092907760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626092907760</updated>
+      <workItem from="1626092909650" duration="7254000" />
+      <workItem from="1626141323364" duration="4048000" />
+      <workItem from="1626155027468" duration="3588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="218" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1626092936239">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="363" y="218" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.30.1536.834@0.30.1536.834" timestamp="1626092936239" />
+    <state x="574" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1626141991484">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="574" y="165" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1626141991484" />
+    <state x="431" y="186" key="search.everywhere.popup" timestamp="1626092913742">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1626092913742" />
+  </component>
+</project>
